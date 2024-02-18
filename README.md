@@ -52,5 +52,7 @@
 <a href="https://www.linkedin.com/in/dumbresharvary/"><img alt="Static Badge" src="https://img.shields.io/badge/Sharvary%20Dumbre-blue?style=plastic&logo=linkedin">
 
 </a>
-<a href="mailto:ghale.atharva@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/dumbresharvary%40gmail.com-white?style=plastic&logo=gmail&logoColor=red">
+<a href="mailto:dumbresharvary@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/dumbresharvary%40gmail.com-white?style=plastic&logo=gmail&logoColor=red">
+</a>
+<a href="mailto:dumbresharvary@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Tableau-black?style=plastic&logo=tableau">
 </a>
