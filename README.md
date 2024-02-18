@@ -54,5 +54,5 @@
 </a>
 <a href="mailto:dumbresharvary@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/dumbresharvary%40gmail.com-white?style=plastic&logo=gmail&logoColor=red">
 </a>
-<a href="mailto:dumbresharvary@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Tableau-black?style=plastic&logo=tableau">
+<a href="https://public.tableau.com/app/profile/sharvary.dumbre/vizzes"><img alt="Static Badge" src="https://img.shields.io/badge/Tableau-black?style=plastic&logo=tableau">
 </a>
