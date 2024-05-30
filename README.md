@@ -6,7 +6,7 @@
 
 - 🌱 I'm delving deeper into data processing methods and the intricacies of Large Language Models.
 
-- 👯 I'm eager to collaborate on projects involving Large Language Models, Natural Language Processing, and cutting-edge data visualization techniques.
+- 👯 I'm eager to collaborate on projects involving Natural Language Processing, and cutting-edge data visualization techniques.
 
 - 💬 Interested in Machine Learning & Data Science? Let's talk about developing smart solutions and intuitive user experiences!
 
