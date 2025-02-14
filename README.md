@@ -2,13 +2,13 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🔭 I'm currently focused on advancing the uses of deep learning and exploring data visualization tools such as Tableau and Power BI.
+- 🔭 I'm currently honing my expertise in TypeScript and PostgreSQL, mastering their advanced features to build scalable, high-performance applications.
 
-- 🌱 I'm delving deeper into data processing methods and the intricacies of Large Language Models.
+- 🌱 I'm delving deep into backend technologies to refine my expertise and architect robust solutions.
 
-- 👯 I'm eager to collaborate on projects involving Natural Language Processing, and cutting-edge data visualization techniques.
+- 👯 I'm eager to collaborate on complex backend and full-stack projects, applying best practices for efficiency and scalability.
 
-- 💬 Interested in Machine Learning & Data Science? Let's talk about developing smart solutions and intuitive user experiences!
+- 💬 Interested in designing and optimizing high-performance systems? Let’s talk about building scalable architectures that deliver seamless user experiences!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
