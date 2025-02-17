@@ -56,3 +56,5 @@
 </a>
 <a href="https://public.tableau.com/app/profile/sharvary.dumbre/vizzes"><img alt="Static Badge" src="https://img.shields.io/badge/Tableau-black?style=plastic&logo=tableau">
 </a>
+<a href="https://leetcode.com/u/sharvaryd317/"><img alt="Static Badge" src="https://leetcode.com/u/sharvaryd317/">
+</a>
